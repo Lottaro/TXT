@@ -1,0 +1,1 @@
+Я научусь работать в Git Bash, писать автотесты в Postman, работать в VS Code, пользоваться Charles и Jmeter
