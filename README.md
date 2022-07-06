@@ -1,5 +1,5 @@
 # TXT  
-QA 29 group Vadim Ksendzov
+QA 29 group Vadim Ksendzov  
 
 TXT
 **1. Создать внешний репозиторий c названием TXT**
